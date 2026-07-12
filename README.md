@@ -27,7 +27,7 @@ Now the chatbot can save, load, and remember learned responses even after restar
 
 ## 📁 Project Files
 
-- [Chatbot.Py](Chatbot1.Py) - Basic rule-based chatbot with simple responses
+- [Chatbot1.Py](Chatbot1.Py) - Basic rule-based chatbot with simple responses
 - [chatbot2.py](chatbot2.py) - Adds chat history and learning capability
 - [chatbot3.py](chatbot3.py) - Adds permanent memory storage using a JSON file
 - [README.md](README.md) - Project documentation
